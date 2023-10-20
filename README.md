@@ -1,8 +1,8 @@
 ![logo](https://github.com/believeharsh/believeharsh/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner%20(3).png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=believeharsh&label=Profile%20views&color=0e75b6&style=flat" alt="believeharsh" /> </p>
 
-### <div align="center">Hi, I'm Harsh Dahiya
-          Learning Software Development | React JS | JavaScript | Learner🚀
+### <div align="center">Hi, I'm Harsh Dahiya👋🏻
+              Learning Software Development | React JS | JavaScript | Learner🚀
 
 ## About Me 
 
