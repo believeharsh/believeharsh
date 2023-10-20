@@ -28,18 +28,11 @@ HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git
 
 
 ## 🔗 Connect with me  
-<div align="center">
-<a href="https://www.linkedin.com/in/believeharsh11/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/bontinue_/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="" target="_blank">
-<img src="https://www.instagram.com/dishant0406/"><img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=pink" />
-</a>
-
-</div>  
+<p align="center">
+<a href="https://www.linkedin.com/in/believeharsh11/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://twitter.com/dishant0406"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.instagram.com/bontinue_/"><img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=pink"></a>
+</p>
   
 
 <br/>  
