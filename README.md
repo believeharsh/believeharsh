@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=believeharsh&label=Profile%20views&color=0e75b6&style=flat" alt="believeharsh" /> </p>
 
 ### <div align="center">Hi, I'm Harsh Dahiya👋🏻
-              Learning Software Development | React JS | JavaScript | Learner🚀
+              Learning Software Development | React JS | Frontend | JavaScript | Learner🚀
 
 ## About Me 
 
@@ -16,7 +16,7 @@
 ## Skills 
 I'm working on these skills from last 6 months and still I have to work hard.
 <bt/>
-HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git, 
+HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git
 
 <br/>  
 
