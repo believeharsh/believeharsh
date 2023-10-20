@@ -16,6 +16,7 @@
 ## 🪚 Skills 
 I'm working on these skills from last 6 months and still I have to work hard.
 <br/>
+<br/>
 HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git
 
 <br/>  
