@@ -13,9 +13,9 @@
   
 <br/>  
 
-## Skills 
+## 🪚 Skills 
 I'm working on these skills from last 6 months and still I have to work hard.
-<bt/>
+<br/>
 HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git
 
 <br/>  
