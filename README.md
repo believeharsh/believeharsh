@@ -30,7 +30,6 @@ HTML, CSS, Javascript, C++, ReactJS, Nodejs, Tailwind CSS, Git
 ## 🔗 Connect with me  
 <p align="center">
 <a href="https://www.linkedin.com/in/believeharsh11/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://twitter.com/dishant0406"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/bontinue_/"><img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=pink"></a>
 </p>
   
